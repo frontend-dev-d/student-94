@@ -50,7 +50,7 @@ body {
 }
 .main{
   margin-bottom: 50px;
-  max-width: 710px;
+  max-width: 95%;
   margin: auto;
   width: 95%;
 }
@@ -207,7 +207,7 @@ body {
 	width: 100%;
 }
 .footer-container, .header{
-  max-width: 1024px;
+  max-width: 95%;
   margin: auto;
   width: 95%;
 }
